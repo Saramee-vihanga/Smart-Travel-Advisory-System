@@ -31,3 +31,6 @@ Smart Travel Advisory System/
 │── places.pl
 │── user.pl
 │── README.md
+
+## Contributors
+- @SinaliTharu
